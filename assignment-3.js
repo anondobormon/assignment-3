@@ -1,3 +1,5 @@
+//  https://github.com/anondobormon/assignment-3
+
 
 
 // *******Kilometer To Meter***********
@@ -12,14 +14,10 @@ function kilometerToMeter(kilometer) {
     }
     return meter;
 }
-var result = kilometerToMeter(-20);
+var result = kilometerToMeter(20);
 console.log(result);
 
 // *********Kilometer To Meter***********
-
-
-
-
 
 
 
@@ -42,11 +40,6 @@ console.log(result);
 
 
 // ***************Budget Calculator***********
-
-
-
-
-
 
 
 
@@ -73,12 +66,10 @@ function hotelCost(days) {
     }
     return cost;
 }
-var result = hotelCost(20);
+var result = hotelCost(30);
 console.log(result);
 
 // **************Hotel Cost****************
-
-
 
 
 
